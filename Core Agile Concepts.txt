@@ -1,0 +1,43 @@
+Core Agile Concepts
+
+
+Agile Approach
+- Iterative
+- Incremental
+- Change-driven
+- Agile
+- Scrum
+- XP
+- Lean
+- Cyrstal Light
+
+Agile Approach: Key Characteristics
+
+Iterative:
+
+Meaning: Agile follows an iterative process, where work is broken into repeated cycles (iterations), each with planning, execution, review, and adjustment.
+Key Feature: After each iteration, feedback is gathered, and improvements are made for the next cycle.
+Benefit: Allows continuous refinement of the product, reducing the risk of large-scale errors and ensuring alignment with customer needs.
+Example: In Scrum, this is represented by sprints (usually 1-4 weeks), where teams deliver working increments of the product in each sprint.
+
+Incremental:
+
+Meaning: In Agile, the product is built in small, incremental pieces, where each increment adds new functionality or features to the product.
+Key Feature: Each increment is functional and usable, meaning the product can be released at any time, even if it's not fully complete.
+Benefit: Provides early delivery of value to customers and allows for regular feedback and adjustments.
+Example: In software, each iteration may deliver a set of features like login, search, or checkout, gradually building up the full product.
+
+Change-Driven:
+
+Meaning: Agile is responsive to change. Changes in requirements or customer feedback are embraced, and the project adapts accordingly, even late in the development process.
+Key Feature: Agile teams are flexible and can quickly adjust priorities or features based on evolving needs or insights.
+Benefit: Enables teams to deliver products that better meet customer needs, as they can adjust quickly to market changes or new information.
+Example: A team may pivot the product’s direction based on new insights gained after each iteration, adding features that weren't initially planned.
+
+
+THE AGILE MANIFESTO VALUES
+
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
