@@ -41,3 +41,20 @@ THE AGILE MANIFESTO VALUES
 - Working software over comprehensive documentation
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
+
+
+AGILE IN MOTION
+
+Imagine a software development team working on a new mobile app. Here's how Agile in motion might look:
+
+Sprint Planning: The team meets at the start of the sprint to select user stories from the product backlog based on priority. They plan the work for the sprint and define the acceptance criteria.
+
+Daily Standups: Every day, the team gathers for a quick 15-minute standup where each person shares what they worked on yesterday, what they will work on today, and any blockers they’re facing.
+
+Development and Testing: The team starts coding, testing, and integrating new features. As they progress, they might discover a better solution, so they adapt and iterate on the feature.
+
+Review and Feedback: At the end of the sprint, the team demonstrates the completed work to stakeholders and gathers feedback. The Product Owner might decide to prioritize a new feature or change some of the requirements.
+
+Retrospective: After the sprint review, the team holds a retrospective to reflect on what went well and what could be improved. They agree on action items for improving their processes in the next sprint.
+
+Next Sprint: The process starts again with a new sprint planning meeting, and the cycle continues.
