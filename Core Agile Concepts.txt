@@ -57,4 +57,20 @@ Review and Feedback: At the end of the sprint, the team demonstrates the complet
 
 Retrospective: After the sprint review, the team holds a retrospective to reflect on what went well and what could be improved. They agree on action items for improving their processes in the next sprint.
 
+
+LEADING AGILE TEAMS
+
+Five Dysfunctions of a Team
+
+- Absence of trust
+- Fear of conflict
+- Lack of commitment
+- Avoidance of accountability
+- Inattention to results (Inspection, Quality Control, Ensure product is working for the end user)
+
+LAUNCHING AND AGILE PROJECT
+
+- Creating and agile charter (Authorize the project and project manager)
+- Ceremony to kick off the project (View on delivering MVP ASAP)
+
 Next Sprint: The process starts again with a new sprint planning meeting, and the cycle continues.
