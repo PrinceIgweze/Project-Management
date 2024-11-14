@@ -57,6 +57,7 @@ Review and Feedback: At the end of the sprint, the team demonstrates the complet
 
 Retrospective: After the sprint review, the team holds a retrospective to reflect on what went well and what could be improved. They agree on action items for improving their processes in the next sprint.
 
+Next Sprint: The process starts again with a new sprint planning meeting, and the cycle continues.
 
 LEADING AGILE TEAMS
 
@@ -73,4 +74,10 @@ LAUNCHING AND AGILE PROJECT
 - Creating and agile charter (Authorize the project and project manager)
 - Ceremony to kick off the project (View on delivering MVP ASAP)
 
-Next Sprint: The process starts again with a new sprint planning meeting, and the cycle continues.
+Velocity - Measure of capacity per sprint. Measured in story point
+
+Project cycle time refers to the total time it takes to complete a project from start to finish, including all the phases and activities involved. It encompasses the entire process, from the initiation of the project through to its closure and delivery of the final product or service.
+
+Defect cycle time refers to the total time it takes to resolve a defect or issue, from the moment it is identified (or reported) until it is fixed and verified as resolved. It is an important metric used in quality management and software development (but applicable in other industries as well) to measure how efficiently a team is able to address and resolve defects or bugs that arise during a project or product development process.
+
+CALCULATING COMPLETION TIME
