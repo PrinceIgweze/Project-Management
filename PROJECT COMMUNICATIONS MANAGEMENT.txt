@@ -1,0 +1,47 @@
+PROJECT COMMUNICATIONS MANAGEMENT
+
+Communication Technology
+- Urgency of the need for information
+- Availability of technology
+- Ease of use
+- Project environment
+- Sensitivity and confidentiality of the information
+
+Communication Channel Formula
+- N(N-1)/2
+N - Number of stakeholders
+
+
+GOAL OF COMMUNICATION PLANNING
+- Who needs the information
+- When the information will be needed 
+- The expected modality
+- Security, archive, and access 
+- Communication influences (time zones, languages, working hours, technology, and cultural considerations)
+
+
+RISK MANAGEMENT
+
+Two Levels of Risk
+- Individiual project risk
+- Overall project risk 
+
+RESPONDING TO POSITIVE AND NEGATIVE RISK
+
+NEGATIVE RISK REPONSES
+- Escalate: Escalate to management
+- Avoidance - Too big, avoid it, change the plan and scope to take risk out
+- Transference - Hire someone else to handle the risk 
+- Mitigation - Action taken to reduce probability and impact of the rick event
+- Acceptance - Accepting the risk 
+
+
+POSITIVE RISK RESPONSE
+- Escalate - 
+- Exploiting
+- Sharing
+- Accepting
+
+QUANTIFYING RISK 
+Formula:
+Contingency Reserve = ∑(Risk Probability × Risk Impact)
