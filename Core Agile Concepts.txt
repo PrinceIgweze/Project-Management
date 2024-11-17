@@ -81,3 +81,36 @@ Project cycle time refers to the total time it takes to complete a project from 
 Defect cycle time refers to the total time it takes to resolve a defect or issue, from the moment it is identified (or reported) until it is fixed and verified as resolved. It is an important metric used in quality management and software development (but applicable in other industries as well) to measure how efficiently a team is able to address and resolve defects or bugs that arise during a project or product development process.
 
 CALCULATING COMPLETION TIME
+
+- We know a project is done when we have reached the customer value. We need to know what is valuable to the customer 
+
+
+
+The PDCA model (Plan-Do-Check-Act) is a continuous improvement framework used to solve problems and optimize processes. In the Plan phase, goals are set and solutions are planned. In the Do phase, the solution is implemented on a small scale. The Check phase involves assessing the results against expectations. Finally, in the Act phase, successful changes are standardized, and improvements are made, restarting the cycle for further refinement.
+
+
+
+The PDCA model (Plan-Do-Check-Act) is a continuous improvement framework used to solve problems and optimize processes. In the Plan phase, goals are set and solutions are planned. In the Do phase, the solution is implemented on a small scale. The Check phase involves assessing the results against expectations. Finally, in the Act phase, successful changes are standardized, and improvements are made, restarting the cycle for further refinement.
+
+
+
+PROJECT INTEGRATION MANAGEMENT
+
+Initiating
+- Developing the project charter
+- Authorizes the project and project manager
+- Authorized external to the project
+- Appropriate power
+
+Process to develop the project charter 
+-Project purpose
+- Measurable project objectives
+- High-level requirements
+- Overall project risk
+- Summary milestone schedule
+- Preapproved financial resources
+- Key stakeholder
+- Approval requirements
+- Exit criteria - close or cancel
+- Assigned project manager
+- Sponsor
