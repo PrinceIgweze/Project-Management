@@ -1,0 +1,89 @@
+
+Project Integration Management
+
+
+PROJECT CHARTER
+
+This authorizes the project manger and the project 
+It is written by the project sponsor 
+
+
+Future Value of Money
+FV = PV(1+i)^n
+The project has to be worth more than the FV within the set time period
+else it is not a really good investment
+
+Present Value of Money
+PV = FV/(1+i)^n
+
+Net Present Value
+Project has a return on investment each year
+The bigger the NPV, the better the project is
+
+Internal Rate of Return
+Anything greater than zero is good
+
+
+ASSUMPTION AND CONSTRAINTS
+
+Assumptions are things that we believe to be true, but are not proven
+They are documented and updated in the 'assumption log'
+Can be a risk as well
+
+Constraints are things that limit options
+
+PROJECT MANAGEMENT PLAN
+
+What goes into the project management plan:
+
+1. Scope management plan
+	How scope will be defined, developed, monitored, controlled and validated
+
+2. Requirements management plan
+	How requirements will be analyzed, documented, and managed
+
+3. Schedule management plan
+	Criteria and activities for developing, monitoring, and controlling the schedule
+
+4. Cost management plan
+	How costs will be planned, structured, and controlled 
+
+5. Quality management plan
+	How an organization's quality policies, methodologies, and standards will be implemented
+	in the project 
+
+6. Resource management plan
+	How project resources are categorized, allocated, managed and released 
+
+7. Communications management plan
+	How, when, and by whom information will be administered and disseminated 
+
+8. Risk management plan
+	How risk management activities will be structured and performed 
+
+9. Procurement management plan
+	How the project team will acquire goods and services from outside of the performing organization
+
+10. Stakeholder engagement plan
+	How stakeholders will be engaged in project decisions and execution
+
+
+INTEGRATION CHANGE CONTROL
+
+Changes to the project will have to go through integrated change control 
+Examined the effect of change on the entire project 
+
+Change request are entered into the change management system
+Changes to scope are entered into the configuration management system
+In the case it can either be approved, deferred or rejected 
+
+Change is approved by the project manager but in some organizations it is the 
+'change control board'
+
+If it is 'APPROVED' it goes into the 'PROJECT MANAGEMENT PLAN'
+If it is 'APPROVED' or 'DECLINED' it goes into the 'CHANGE LOG'
+
+
+CLOSING ACTIVITIES
+
+Finalizing the project or phase records
