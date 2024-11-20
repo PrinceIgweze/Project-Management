@@ -1,0 +1,77 @@
+
+PROJECT SCOPE MANAGEMENT 
+
+
+The product scope and project scope go hand in hand 
+
+Product scope: Features and functions
+Project scope: Work to be completed
+
+SCOPE AND PROJECT LIFE CYCLES
+
+1. Predictive - Project scope defined at beginning
+2. Adaptive - Project scope developed through iterations
+3. Predictive - Change resistant
+4. Adaptive - expects change
+
+SCOPE AND PROJECT COMPLETION
+
+- Project scope is measured against project plan
+- Product scope is measured against project requirements
+- Requirements are conditions or capabilities that must exist in a product, service, or result
+
+
+PLANNING PROJECT SCOPE
+
+Scope Management Plan
+
+- This does not define the project scope
+- It details how to create the project scope statement
+- How the WBS will be created
+- How the scope baseline will be approved and maintained 
+- How formal acceptance of the deliverables happen
+
+Requirement Management Plan
+
+- How will the requirement activities happen, be planned, tracked and reported
+- Define configuration management (this is about the features and functions of the product)
+
+
+Agile Requirement Gathering
+
+- User Stories - defines
+	- Role - who benefits from the feature
+	- Goal - what the stakeholders aim to accomplish
+	- Motivation - benefit to the stakeholder
+
+Difference between a project charter and project scope
+
+A charter is all about authority, while the project scope is all about delivery
+
+
+
+CREATING THE WORK BREAKDOWN STRUCTURE(WBS)
+
+- This is the decomposition of the project scope
+- The smallest item in the WBS is called the work package
+
+WBS DICTIONARY: A glossary of all of the work packages. It could include things like the duration, cost, risk to watch out for etc
+
+PERFORMAING SCOPE VALIDATION
+- Scope inspection: The customer inspects the deliverable and the focus is on acceptance
+- Quality control: Keeping mistakes out of the customers hands
+
+CONTROLLING PROJECT SCOPE
+
+Questions to ask when controlling scope: 
+- Are changes agreed upon ?
+- Has the change already happened ?
+- How to manage the existing change ?
+- How to incorporate approved changes?
+- What baselines are affected by the change ?
+
+The types of baselines
+- Scope baseline
+- Schedule baseline
+- Cost baseline
+
