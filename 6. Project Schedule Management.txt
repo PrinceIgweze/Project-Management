@@ -1,0 +1,118 @@
+
+
+PROJECT SCHEDULE MANAGEMENT
+
+
+Agile Release Planning
+
+- High-level summary timeline of the release schedule
+- 3 to 6 months
+- Product roadmap and product vision
+- Determines the number of iterations or sprints
+- How much need to be developed 
+- How long it will take to have a releasable product
+
+
+BURNDOWN CHART
+
+- Shows a plot of work to be done vs iteration days
+
+
+DECOMPOSE PROJECT ACTIVITIES
+
+- Activity list and work packages
+- Work package should be no greater than 80 hours and no less than 8 hours
+- Requires 3 outputs
+ 	- Scope baseline
+	- Enterprise environmental  factors
+	- Organizational process assets
+
+ROLLING WAVE PLANNING
+
+ACTIVITY LIST
+
+- A big list of all the project activities
+- Activity identifier
+- Scope of work description
+
+EFFORT AND PROJECT ACTIVITIES
+
+- Level of effort activities : these are support activities
+	- Reporting
+	- Budgeting
+
+- Discrete effort activities: activities required to complete the project scope
+
+- Apportioned effort: these a project management work
+	- Quality assurance
+	- Integrated change control 
+ 	- Communications
+
+MILESTONE CHART
+
+- Shows when milestone will be reached 
+- Up triangle is planned
+- Down triangle is actual 
+
+
+DEVELOPING THE PROJECT SCHEDULE
+
+Dependency Determination
+- Mandatory dependencies - hard logic
+- Discretionary dependencies - soft logic
+- External dependencies - external constraint
+- Internal dependencies - type of hard logic
+
+LEAD AND LAG
+- Lead is on the successor activity and it is negative time. It allows activities to overlap
+- Lag is waiting time. lag moves activities further apart
+
+
+-------------------------------------------------------------------------------------------------------------
+
+CREATING DURATION ESTIMATES
+
+- Task are first identified
+- Sequencing of the activities
+- Recourses defined
+- Durations are estimated
+- Four activities are iterated
+
+
+EXTIMATING DURATION CONSIDERATIONS
+
+- Law of diminishing returns
+	- Increase in resources will eventually yield diminishing returns
+
+- Number of resources
+	- Adding resources does not necessarily reduce duration
+	- Risk
+	- Knowledge transfer/Learning Curve
+
+- Advance in technology
+	- Faster equipment/Learning Curve
+
+- Motivation of staff
+	- Student syndrome/Parkinson's law (work expands to fill the allocated time)
+
+
+THREE POINT ESTIMATE
+- Find the average of 
+	- Optimistic
+	- Most Likely
+	- Pessimistic
+	- Also called triangular distribution
+
+- (O + ML + P ) / 3 = Estimate
+
+BOTTOM UP ESTIMATING
+
+- Usually a term associated with cost estimates
+- Can be used for resource estimating 
+- Required a fully-decomposed WBS for each work package
+- Estimate how many and what type of resources you'll need to create that work package
+
+
+FINDING FLOAT
+
+
