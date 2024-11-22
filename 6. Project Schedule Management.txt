@@ -115,4 +115,22 @@ BOTTOM UP ESTIMATING
 
 FINDING FLOAT
 
+Free float:
+	An activity can be delayed without delaying the early start of any successor activities
 
+Total float:
+	An activity can be delayed without delaying project completion
+
+Project float
+	A project can be delayed without passing the customer expected completion date
+
+Critical path
+	This is the longest path
+
+Forward Pass: Early Start (ES) + Duration (du) - 1 = Early Finish (EF) Path
+
+Backward Pass: Late Finish (LF) - Duration + 1 = Late Start (LS)
+
+Float: Late Finish (LF) - Early Finish (EF) or Late Start (LS) - Early Start (ES)
+
+     
