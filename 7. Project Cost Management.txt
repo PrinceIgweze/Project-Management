@@ -1,0 +1,54 @@
+
+PROJECT COST MANAGEMENT
+
+- Human and physical resources 
+
+PLANNING COST MANAGEMENT 
+
+- Subsidiary plan of the project management plan
+
+- Addresses three other cost management processes:
+	- How cost are estimated
+	- How the project budget is managed
+	- How costs will be controlled 
+
+CREATING COST ESTIMATES
+- Predict based on current information
+
+- Cost tradeoffs and risk considered
+	- Cost versus buy
+	- Cost versus lease
+	- Sharing resources
+
+- Level of accuracy
+	- Rough order of magnitude
+	- Budget estimate
+	- Definitive estimate
+
+- All categories of cost estimated 
+
+
+
+TYPES OF ESTIMATES
+
+- Rough Order of Magnitude Estimate
+	A rough estimate made early in the project, often when little detailed information is available.
+
+- Budget Estimate
+	A more refined estimate that is developed after considering more detailed information, such as 
+	project scope, schedule and resources
+
+- Definitive Estimate
+	The most accurate estimate, based on available information, including historical data, detailed 
+	resource analysis, and expert judgement. Often used later in the planning phase
+
+- Analogous Estimate (Top-Down Estimate)
+	An estimate based on historical data from similar projects or activities. Quick an inexpensive
+
+- Parametric Estimate
+	Method used in estimating cost or durations based on specific parameters or variable. It uses
+	mathematical models or statistical relationships to predict future outcomes based on 
+	historical data and project parameters
+
+= Three-Point Estimate
+	An estimate technique that used different values to provide a more comprehensive estimate. The three 	values are: Optimistic (0), Pessimistic (P), Most Likely (M)
