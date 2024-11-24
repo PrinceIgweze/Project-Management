@@ -1,0 +1,42 @@
+
+PROJECT QUALITY MANAGEMENT
+
+
+Terminologies:
+
+Variable Sampling: Results rated on a continuous scale that measures the degree of conformity
+
+Tolerances: Specified range of acceptable results
+
+Control Limits: Identify the boundaries of common variation in a statistically stable process or process performance
+
+
+PLANNING QUALITY MANAGEMENT
+
+- Defined quality policy for the project
+- Defined quality assurances requirements
+- Defined how quality control activities will occur 
+
+TYPES OF QUALITY COST
+
+- Prevention: Quality assurance, delivering the exact project scope and the expected quality. Examples: training, safety measures, and right tools and equipment
+
+- Appraisal: Quality control, cost of measuring, testing, auditing, and evaluating time for testing
+
+- Failure: Internal failure: scrap and rework. External failure: Loss of sales, loss of customers, downtime, and damage to reputation 
+
+QUALITY MANAGEMENT PLAN
+
+- Control Quality:
+	Results are monitored for quality standards
+	Poor results need root cause analysis
+	Quality control is inspection-driven
+
+- Managing quality:
+	Performance must meet quality standards
+	QA maps to an organization's quality policy
+	QA is typically a managerial process
+
+- Quality improvement: 
+	Corrective actions improve the project 
+	Improvements depend on quality philosophy of the organization
