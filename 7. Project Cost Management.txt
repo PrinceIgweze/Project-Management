@@ -52,3 +52,18 @@ TYPES OF ESTIMATES
 
 = Three-Point Estimate
 	An estimate technique that used different values to provide a more comprehensive estimate. The three 	values are: Optimistic (0), Pessimistic (P), Most Likely (M)
+
+
+EARNED VALUE MANAGEMENT
+
+Formulas that show project performance
+
+Earned Value (EV) = % Complete * Budget at completion (BAC)
+Planned Value = %Planned * Budget at completion (BAC)
+Cost Variance = EV - Actual Cost (AC)
+Schedule Variance = EV - PV
+Cost Performance Index = EV/AC
+Schedule Performance Index = EV/PV
+
+Estimate at Completion = BAC/CPI
+Estimate to complete = EAC - AC
