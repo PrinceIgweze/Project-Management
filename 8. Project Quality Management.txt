@@ -40,3 +40,38 @@ QUALITY MANAGEMENT PLAN
 - Quality improvement: 
 	Corrective actions improve the project 
 	Improvements depend on quality philosophy of the organization
+
+CONTROLLING PROJET QUALITY 
+
+- Monitor and measure project results
+- Root-cause analysis follows the quality control
+- Root-cause analysis enables determine the cause
+- Apply corrective actions
+- QC occurs throughout the life of a project
+
+CONTROLLING QUALITY
+- Controlling the quality of the product and the product
+- Project management processes
+- Measures performance, scheduling, and cost
+- Management of the project should be of quality 
+
+INSPECTING RESULTS
+- Reviews
+- Product reviews
+- Audits
+- Walkthroughs
+
+
+QUALITY MANAGEMENT CHARTS
+
+Cause-and-effect charts
+Fish bone or Ishikawa diagram - Helps facilitate the conversation on the root cause analysis 
+
+Control chart - Shows how stable a repeatable process is 
+
+Pareto diagram - Shows the categories of defects from largest to smallest 
+
+
+
+
+
