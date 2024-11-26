@@ -1,0 +1,111 @@
+
+
+PROJECT RESOURCE MANAGEMENT
+
+
+
+RACI CHART
+
+R - Responsible
+A - Accountable
+C - Consulted
+I - Informed 
+
+Only one person is accountable for each activity 
+
+
+MASLOW'S HIERACHY OF NEEDS 
+
+- Self Actualization
+- Esteem Needs
+- Social Needs 
+- Safety Needs
+- Physiological Need
+
+HERZBERG'S THEORY OF MOTIVATION
+
+McGREGOR'S X AND Y
+
+X People
+Micromanagement
+No trust
+Lazy
+Avoid work 
+
+Y People 
+Self-led
+Motivated
+Capable 
+
+McCLELLAND'S THEORY OF NEEDS
+- Shaped by life experiences
+	- Achievement - seeks to excel 
+	- Affiliation - harmonious, acceptance
+	- Power - personal and institutional 
+
+
+
+PLANNING RECOURCE MANAGEMENT 
+
+- Project reward and recognition system
+- Define the training needs and plans for 
+- Remove or reduce worries about employment 
+- Compliance with government regulations, union contracts, and policies
+- Procurement of 
+	- Physical resources
+	- Human resources
+	- Lead time
+	- Vendor fulfillment 
+
+Creating a Project Team Charter
+	Created especially in an agile environment 
+
+Defines
+	- Team values
+	- Communication guidelines
+	- Decision-making processes
+	- Conflict resolution process
+	- Meeting guidelines
+ 	- Team agreements
+	- Ground rules 
+
+ACTIVITY RESOURCE NEEDS
+
+- Fixed - duration activities - More people wont speed up the activity 
+- Effort can affect completion date
+- Law of Diminishing Return
+- Effort driven activities
+
+
+DEVELOPING PROJECT TEAM
+
+Tuckman Team Development Model 
+
+- Forming
+- Storming
+- Norming
+- Performing
+- Adjourning
+
+
+Solving Problems
+
+- Collaborative/Problem solving
+- Forcing/directing
+- Compromising/Reconcile
+- Withdrawal/Avoiding 
+- Smoothing/Accommodating
+
+
+RESOURCE MANAGEMENT PROBLEM SOLVING
+
+- Identify the problem: specify the problem
+- Define the problem: Break it into manageable problems
+- Investigate: gather data 
+- Analyze data: root cause analysis
+- Solve: choose a solution from available ones
+- Check the solution: has problem been fixed
+
+
+
+
