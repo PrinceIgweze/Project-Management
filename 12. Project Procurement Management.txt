@@ -1,0 +1,81 @@
+
+
+PROJECT PROCUREMENT MANAGEMENT 
+
+Key Concepts
+
+- Purchasing the products and services for the project
+- Planning
+- Acquiring the products or services
+- Choosing a source 
+
+
+SOW and TOW
+- Statement of work 
+- Terms of reference 
+- Define the work to be accomplished with the project 
+- Does not define the product description as whole
+- Entire project is procured from a vendor, the SOW and the product description are the same 
+- References the requirements documentation
+
+TERMS OF REFERENCE: Specifies the detailed requirements for acquiring goods, services, or works from external suppliers or contractors
+
+
+REVIEWING CONTRACT TYPES
+
+- Fixed price
+- Cost plus
+
+FIRM FIXED-PROCE CONTRACTS (FFP)
+- Most common contract
+- Seller carries risk of cost overruns
+- Buyer specifies what's to be purchased
+- Changes to the scope
+
+FIZED PRICE INCENTIVE FEE CONTRACTS (FPIF)
+
+- Financial incentive for performance
+- Cost, schedule, technical performance
+- Price ceiling
+- Seller carries risk of overruns
+
+FIXED PRICE WITH ECONOMIC PRICE ADJUSTMENT CONTRACTS (FP-EPA)
+- Long-term contracts
+- Pre-defined financial adjustments
+- Inflation, cost increases, decreases
+- External conditions
+
+COST REIMBURSABLE OVERVIEW 
+
+- Cost plus a fee
+- Scope of work cant be defined early
+- High risks may exist in the project
+- Buyer carries risk of overrun
+
+COST PLUS FIXED FEE CONTRACTS (CPFF)
+
+- All allowable cost
+- Fixed fee of the initial estimated costs
+- Fee paid for completed work 
+- Fee is constant unless scope changes 
+
+COST PLUS INCENTIVE FEE (CPIF)
+
+- All allowable costs 
+- Fee based on performance goals 
+- Incentive sharing (often 80/20)
+- Contracts defined measurement
+
+COST PLUS AWARD FEE CONTRACT (CPAF)
+
+- All allowable costs 
+- Performance criteria for fee to seller 
+- Subjective review by buyer
+- Award is determined by the buyer
+
+TIME AND MATERIALS CONTRACT (T&M)
+
+- Seller is paid an hourly fee
+- Seller is paid for materials 
+- Not-to-exceed clause
+- Time limits for contract 
