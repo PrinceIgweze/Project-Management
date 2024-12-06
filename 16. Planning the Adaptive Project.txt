@@ -1,0 +1,85 @@
+
+
+PLANNING THE ADAPTIVE PROJECT 
+
+
+Agile Stakeholder Engagement 
+
+- Agile project manager works with stakeholders
+- Not command and control 
+- Consider servant leadership
+- Identify project stakeholders as early as possible
+- People new to agile projects need come basic education
+- Address concerns directly with project stakeholders
+- Explain the approach that will be used
+
+
+Managing stakeholder engagement 
+- Short iterations keep stakeholders involved
+- Review and demos show the results of the work 
+- Agile placed value of he work that is done
+- Agile is naturally visible for project stakeholders
+
+
+Principles of stakeholder engagement
+- Get the right stakeholders 
+- Ensure a stakeholder participation
+- Manage stakeholder interest
+- Frequently discussed what done looks like 
+- Show progress to project stakeholders
+- Openly discuss project estimates and projections
+
+Individuals and Interactions
+- Respect for the worth of every person
+- Truth in every communication
+- Transparency of all data, actions, and decisions
+- Trust that each person will support the team
+- Commitment to the team and to the teams goals 
+
+
+
+
+DETERMINING PRIORITIES
+
+Considerations for requirements prioritization
+
+- Value - business benefit
+- Cost - expense versus ROI
+- Risk - riskiest requirement first 
+
+
+TESTING FOR VALUE
+
+Gulf of evaluation
+- The difference between what is said and what is understood
+- Intangible projects often experience this gulf 
+- What does DONE look like ?
+
+
+Unit Testing
+- Unit - smallest testable portion of application code
+	- Entire module
+	- Function
+	- Procedure
+	- Basically, code fragments 
+- Automated process for testing
+- Isolated testing for validity 
+
+
+Acceptance testing
+Test to determine acceptability of results:
+- Specific requirement
+- Specification
+- Contract requirements 
+
+
+Exploratory testing 
+- The tester aims to discover issues and unexpected behaviour
+- Tester explores the software
+- This is in addition to scripted testing
+
+Performing continuous integration in agile projects 
+- Incorporate new and changed code into the code repository
+- Small code commits
+- Frequency integration
+- Relies on automated tools to integrate code when new code is checked in
